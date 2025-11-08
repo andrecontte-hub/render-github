@@ -1,1 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #0b0b0b;
+  color: #f5f5f5;
+  text-align: center;
+  padding: 40px;
+}
 
+h1 {
+  color: gold;
+}
+
+audio, video {
+  margin: 20px auto;
+  display: block;
+}
+
+footer {
+  margin-top: 50px;
+  color: #999;
+  font-size: 14px;
+}
